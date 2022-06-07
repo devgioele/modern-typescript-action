@@ -33,7 +33,6 @@ jobs:
       - name: Fetch and link dependencies
         run: yarn
       - run: |
-          yarn format
           yarn lint
           yarn test
           yarn build
