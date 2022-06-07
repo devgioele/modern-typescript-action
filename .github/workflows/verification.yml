@@ -2,10 +2,16 @@ name: Verification
 
 on:
   pull_request:
+    paths-ignore:
+      - '.vscode/**/*'
+      - '*.md'
   push:
     branches:
       - main
       - 'releases/*'
+    paths-ignore:
+      - '.vscode/**/*'
+      - '*.md'
 
 jobs:
   build:
