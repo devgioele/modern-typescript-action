@@ -12,14 +12,14 @@ If you are new, there's also a simpler introduction.  See the [Hello World JavaS
 
 ## Includes
 
-- TypeScript
-- ESLint
-- Prettier
-- yarn
-- esbuild
-- @swc/jest
-- act
-- VS Code settings
+- [TypeScript](https://www.typescriptlang.org/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [yarn](https://yarnpkg.com/)
+- [esbuild](https://esbuild.github.io/)
+- [@swc/jest](https://swc.rs/docs/usage/jest)
+- [act](https://github.com/nektos/act)
+- [VS Code](https://code.visualstudio.com/) settings
 
 ## Requirements
 
