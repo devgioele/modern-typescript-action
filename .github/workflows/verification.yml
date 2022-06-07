@@ -38,7 +38,8 @@ jobs:
             yarn-cache-folder-
       - name: Fetch and link dependencies
         run: yarn
-      - run: |
+      - name: Lint, test, build
+        run: |
           yarn lint
           yarn test
           yarn build
