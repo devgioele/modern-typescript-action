@@ -2,9 +2,9 @@
   <a href="https://github.com/devgioele/modern-typescript-action"><img alt="modern-typescript-action status" src="https://github.com/devgioele/modern-typescript-action/workflows/Verification/badge.svg"></a>
 </p>
 
-# Create a modern GitHub Action using TypeScript
+# Create a modern GitHub Action
 
-Use this template to bootstrap the creation of a GitHub Action.:rocket:
+Use this template to bootstrap the creation of a GitHub Action :rocket:
 
 This template includes compilation support, tests, a validation workflow, publishing, and versioning guidance.  
 
