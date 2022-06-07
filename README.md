@@ -24,7 +24,7 @@ If you are new, there's also a simpler introduction.  See the [Hello World JavaS
 ## Requirements
 
 - Some GNU+Linux OS such that commands like `rm` and `cp` work
-- Node.js 16 or higher
+- Node.js `16 or higher`
 
 ## Create an action from this template
 
@@ -43,8 +43,6 @@ Test, build and run the action
 ```bash
 $ yarn dev
 ```
-
-The `.secrets` file is a [.env](https://www.dotenv.org/env) file used to pass secrets to the GitHub Action while running it locally with act.
 
 ## Change action.yml
 
@@ -117,3 +115,7 @@ On **GitHub** you can enable it by setting the **secret** `ACTIONS_STEP_DEBUG` t
 
 If using **act**, you can enable it by passing the flag `--verbose`.
 _Note: This does not currently work. Follow [the related GitHub issue](https://github.com/nektos/act/issues/1006)._
+
+## Using secrets locally
+
+The `.secrets` file is a [.env](https://www.dotenv.org/env) file placed in the root directory that is used to pass secrets to the GitHub Action while running it locally with act.
