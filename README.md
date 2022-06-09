@@ -23,7 +23,6 @@ If you are new, there's also a simpler introduction.  See the [Hello World JavaS
 
 ## Requirements
 
-- Some GNU+Linux OS such that commands like `rm` and `cp` work
 - Node.js `16 or higher`
 
 ## Create an action from this template
