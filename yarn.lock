@@ -1118,10 +1118,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:17.0.40":
-  version: 17.0.40
-  resolution: "@types/node@npm:17.0.40"
-  checksum: e3b2fe876672fbe4be84ce17773944eb2f5eaba50e2c6c0536bdf6d4972ed6488581580581f154183fdc8f2d56fa42a42e3d6e83b9b71ee25adea16a84765e92
+"@types/node@npm:18.11.11":
+  version: 18.11.11
+  resolution: "@types/node@npm:18.11.11"
+  checksum: c4b1176a8f1714a3ee3fc2a5e1d568b0cd50209000282db5c68154b3c975952928dbb834ef3a0ce55bd7b345ae29f2cbf4a34635a070294d135a24254231386a
   languageName: node
   linkType: hard
 
@@ -4495,7 +4495,7 @@ __metadata:
     "@swc/core": 1.2.197
     "@swc/jest": 0.2.21
     "@types/jest": 28.1.1
-    "@types/node": 17.0.40
+    "@types/node": 18.11.11
     cpy-cli: 4.1.0
     esbuild: 0.14.43
     eslint: 8.17.0
